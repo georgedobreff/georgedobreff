@@ -8,12 +8,12 @@
 
 I'm studying Full Stack and have an (possibly unhealthy) obsession with LLMs 😅 
 
-- 🔭 I’m currently working on a <a href="https://github.com/georgedobreff/discord-ai-waifu.git" target=_blank>Discord LLM Bot</a> with voice and search.
+- 🔭 I’m currently working on a <a href="https://github.com/georgedobreff/discord-ai-waifu.git" target="_blank">Discord LLM Bot</a> with voice and search.
 - 🌱 I’m currently learning JavaScript, Node.js and PostgreSQL.
 - 👯 I’m looking to collaborate on anything that involves AI/LLMs.
 - 🤔 I’m looking for help with understanding video protocols and OAuth2 better.
 - 💬 Ask me about Python, LLMs and computer hardware.
-- 📫 How to reach me: I respond quickly on <img src='https://cdn3.emoji.gg/emojis/7561-discord-clyde.png' width="3%" align="center"><a href="https://discord.com/users/1388488254889656420" target=_blank>Discord</a> or if you prefer you can [Email Me](mailto:george@witcher.blog) and wait 3-5 business weeks.
+- 📫 How to reach me: I respond quickly on <img src='https://cdn3.emoji.gg/emojis/7561-discord-clyde.png' width="3%" align="center"><a href="https://discord.com/users/1388488254889656420" target="_blank">Discord</a> or if you prefer you can [Email Me](mailto:george@witcher.blog) and wait 3-5 business weeks.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice tattooing when I have the time.
 
