@@ -3,7 +3,7 @@
 <img src='https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp'>
 </p>
 
-<h3 align="center"style="text-decoration: underline;">😎 Nice to see you here! I'm George aka Witcher.</h3>
+<h3 align="center"style="text-decoration: underline;">😎 Nice to see you here! I'm George</h3>
 
 
 I'm studying Full Stack and have an (possibly unhealthy) obsession with LLMs 😅 
