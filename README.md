@@ -10,7 +10,7 @@
 
 I'm studying Full Stack and have an obsession with LLMs 😅 
 
-- 🔭 I’m currently working on a <a href="https://github.com/georgedobreff/discord-ai-waifu.git" target="_blank">Discord LLM Bot</a> and a .
+- 🔭 I’m currently working on a <a href="https://github.com/georgedobreff/discord-ai-waifu.git" target="_blank">Discord LLM Bot</a> and a Unity game with LLM integration.
 - 🌱 I’m currently learning JavaScript, Node.js, React and PostgreSQL.
 - 👯 I’m looking to collaborate on anything that involves AI/LLMs.
 - 🤔 I’m looking for help with understanding video protocols and OAuth2 better.
