@@ -33,7 +33,7 @@ I'm studying Full Stack and have an obsession with LLMs 😅
 </p>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com/?user=georgedobreff&theme=radical&hide_border=true&show_icons=true" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=georgedobreff&theme=radical&hide_border=true&show_icons=true" alt="Streak" />
 </p>
 
 
