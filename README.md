@@ -4,13 +4,11 @@
 </p>
 
 <h1 align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF46A2&center=true&vCenter=true&width=666&lines=👋+Hi+there!+I'm+Witcher;👨🏻‍💻+Full+Stack+Engineer+in+training;🔥+Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=2000&pause=500&color=b64fff&center=true&vCenter=true&width=666&lines=👋+I'm+George;👨🏻‍💻+Full+Stack+and+LLM+Developer;🔥+Turning+coffee+into+code" alt="Typing SVG" />
 </h1>
 
 
-
-  
-I'm studying Full Stack and have an obsession with LLMs 😅 
+I'm studying Full Stack and practice LLM Development.
 
 - 🔭 I’m currently working on a <a href="https://github.com/georgedobreff/discord-ai-waifu.git" target="_blank">Discord LLM Bot</a>
 - 🌱 I’m currently learning JavaScript, Node.js, React and PostgreSQL.
@@ -27,7 +25,7 @@ I'm studying Full Stack and have an obsession with LLMs 😅
 
 <p align="center">
   
- <img align="center" src='https://github-readme-stats.vercel.app/api?username=georgedobreff&hide=stars,issues&theme=radical&icon_color=FF46A2&hide_rank=true&hide_title=true&text_color=FF46A2&hide_border=true'>
+ <img align="center" src='https://github-readme-stats.vercel.app/api?username=georgedobreff&hide=stars,issues&theme=radical&icon_color=b64fff&hide_rank=true&hide_title=true&text_color=b64fff&hide_border=true'>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgedobreff&hide_border=true&theme=radical&hide_progress=true&layout=compact&hide_title=true&stats_format=bytes" alt="Top Languages" />
    
 </p>
