@@ -23,7 +23,7 @@ I'm studying Full Stack and have an obsession with LLMs 😅
 
 
 ---
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=georgedobreff&bg_color=0D1117&color=FF46A2&line=FF46A2&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&hide_title=true)
+
 
 <p align="center">
   
