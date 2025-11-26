@@ -20,17 +20,5 @@ I'm studying Full Stack and practice LLM Development.
 - ⚡ Fun fact: I know how to tattoo and practice when I have the time.
 
 
----
-
-
-<p align="center">
-  
- <img align="center" src='https://github-readme-stats.vercel.app/api?username=georgedobreff&hide=stars,issues&theme=radical&icon_color=b64fff&hide_rank=true&hide_title=true&text_color=b64fff&hide_border=true'>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgedobreff&hide_border=true&theme=radical&hide_progress=true&layout=compact&hide_title=true&stats_format=bytes" alt="Top Languages" />
-   
-</p>
-
-
-
 
 
