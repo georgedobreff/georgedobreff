@@ -11,9 +11,9 @@
 I'm studying Full Stack and practice LLM Development.
 
 - 🔭 I’m currently working on <a href="https://questsmith.net/" target="_blank">Quest Smith</a> - AI powered productivity app that plans and gamifies your goals.
-- 🌱 I’m currently learning JavaScript, Node.js, React and PostgreSQL.
-- 👯 I’m looking to collaborate on anything that involves AI/LLMs.
-- 🤔 I’m looking for help with understanding video protocols and OAuth2 better.
+- 🌱 I’m currently learning TypeScript, Node.js, React and PostgreSQL.
+- 👯 I’m looking to collaborate on anything that involves AI.
+- 🤔 I’m looking for help with understanding video protocols better.
 - 💬 Ask me about Python and LLMs.
 - 📫 How to reach me: I respond quickly on <img src='https://cdn3.emoji.gg/emojis/7561-discord-clyde.png' width="3%" align="center"><a href="https://discord.com/users/1388488254889656420" target="_blank">Discord</a> or if you prefer you can [Email Me](mailto:george@witcher.codes)
 - 😄 Pronouns: He/Him
