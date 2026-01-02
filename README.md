@@ -10,7 +10,7 @@
 
 I'm studying Full Stack and practice LLM Development.
 
-- 🔭 I’m currently working on <a href="https://questsmith.net/" target="_blank">Quester</a> - AI powered productivity RPG 
+- 🔭 I’m currently working on <a href="https://qstr.io/" target="_blank">Quester</a> - AI powered productivity RPG 
 - 🌱 I’m currently learning TypeScript, Node.js, React and PostgreSQL.
 - 👯 I’m looking to collaborate on anything that involves AI.
 - 🤔 I’m looking for help with understanding video protocols better.
