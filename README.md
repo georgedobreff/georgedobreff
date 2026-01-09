@@ -10,9 +10,9 @@
 
 I'm studying Full Stack and practice LLM Development.
 
-- 🔭 I’m currently working on <a href="https://qstr.io/" target="_blank">Quester</a> - AI powered productivity RPG 
+- 🔭 I’m currently working on <a href="https://qstr.io/" target="_blank">Quester</a> - Gamified Learning powered by LLM.
 - 🌱 I’m currently learning TypeScript, Node.js, React and PostgreSQL.
-- 👯 I’m looking to collaborate on anything that involves AI.
+- 👯 I’m looking to collaborate on anything that involves AI & Robotics.
 - 🤔 I’m looking for help with understanding video protocols better.
 - 💬 Ask me about Python and LLMs.
 - 📫 How to reach me: I respond quickly on <img src='https://cdn3.emoji.gg/emojis/7561-discord-clyde.png' width="3%" align="center"><a href="https://discord.com/users/1388488254889656420" target="_blank">Discord</a> or if you prefer you can [Email Me](mailto:george@witcher.codes)
