@@ -10,7 +10,7 @@
 
 I'm studying Full Stack and practice LLM Development.
 
-- 🔭 I’m currently working on <a href="https://questr.gg/" target="_blank">Quester</a> - Gamified Learning powered by AI.
+- 🔭 I’m currently working on <a href="https://questr.gg/" target="_blank">Questr</a> - Gamified Learning powered by AI.
 - 🌱 I’m currently learning TypeScript, Node.js, React and PostgreSQL.
 - 👯 I’m looking to collaborate on anything that involves AI & Robotics.
 - 🤔 I’m looking for help with understanding video protocols better.
