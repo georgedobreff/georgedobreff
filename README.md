@@ -3,22 +3,12 @@
 <img src='https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp'>
 </p>
 
-<h1 align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=2000&pause=500&color=b64fff&center=true&vCenter=true&width=666&lines=👋+I'm+George;👨🏻‍💻+Full+Stack+and+LLM+Developer;🔥+Turning+coffee+into+code" alt="Typing SVG" />
-</h1>
 
+### Systems Engineer & Founder of [Nemetix.co](https://nemetix.co/)
 
-I'm studying Full Stack and practice LLM Development.
+I design and build AI-integrated applications from end to end. I focus on system architecture, business logic, and custom AI integration, utilizing AI-assisted tools to accelerate the development process.
 
-- 🔭 I’m currently working on <a href="https://questr.gg/" target="_blank">Questr</a> - Gamified Learning powered by AI.
-- 🌱 I’m currently learning TypeScript, Node.js, React and PostgreSQL.
-- 👯 I’m looking to collaborate on anything that involves AI & Robotics.
-- 🤔 I’m looking for help with understanding video protocols better.
-- 💬 Ask me about Python and LLMs.
-- 📫 How to reach me: I respond quickly on <img src='https://cdn3.emoji.gg/emojis/7561-discord-clyde.png' width="3%" align="center"><a href="https://discord.com/users/1388488254889656420" target="_blank">Discord</a> or if you prefer you can [Email Me](mailto:george@witcher.codes)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know how to tattoo and practice when I have the time.
-
-
-
-
+### What I Do
+* **Architecture:** Designing systems from initial concept to granular execution.
+* **AI Integration:** Embedding AI capabilities into applications to solve core business problems.
+* **Development:** Managing the full lifecycle of custom development services at Nemetix.co.
