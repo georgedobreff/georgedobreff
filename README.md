@@ -4,7 +4,7 @@
 </p>
 
 
-### Systems Engineer & Founder of [Nemetix.co](https://nemetix.co/)
+### Systems Engineer & Owner of [Nemetix.co](https://nemetix.co/)
 
 I design and build AI-integrated applications from end to end. I focus on system architecture, business logic, and custom AI integration, utilizing AI-assisted tools to accelerate the development process.
 
