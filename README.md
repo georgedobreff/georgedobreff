@@ -12,7 +12,7 @@ I specialise in designing and building AI-integrated web applications from end t
 
 ## **Projects**
 
-My proudest work is [Questr](https://questr.gg/). 
+My proudest work is [Questr](https://questr.gg/). Open Source codebase pinned below.
 <br>
 View more at [Nemetix](https://nemetix.co/)
 
